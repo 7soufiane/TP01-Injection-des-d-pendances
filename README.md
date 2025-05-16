@@ -6,9 +6,6 @@ L'Inversion de Contrôle (IoC) et l'Injection de Dépendances (DI) sont des prin
 - **Inversion de Contrôle (IoC)** : Principe selon lequel l'instanciation des objets et leur gestion sont déléguées au framework plutôt que d'être gérées manuellement dans le code.
 - **Injection de Dépendances (DI)** : Technique permettant d'injecter des dépendances dans une classe sans qu'elle ait besoin de les instancier elle-même, favorisant ainsi la séparation des responsabilités.
 
-## Injection des Dépendances : Approches Utilisées
-
-![img.png](img.png)
 
 ### 1. Injection des Dépendances par Instanciation Statique
 Dans cette approche, les dépendances sont instanciées directement dans le code. C'est une approche simple mais qui pose des problèmes de flexibilité et de maintenance.
